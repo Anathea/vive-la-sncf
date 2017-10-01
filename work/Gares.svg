@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="70 103 1507 731"
+   width="1437px"
+   height="628px"
+   version="1.1"
+   id="svg242"
+   sodipodi:docname="Gares.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata248">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs246" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     id="namedview244"
+     showgrid="false"
+     inkscape:zoom="0.26235212"
+     inkscape:cx="665.1366"
+     inkscape:cy="480.47761"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg242" />
+  <line
+     x1="774"
+     y1="503"
+     x2="784"
+     y2="503"
+     style="stroke:#0b0;stroke-width:1;"
+     id="line2" />
+  <line
+     x1="841"
+     y1="533"
+     x2="851"
+     y2="533"
+     style="stroke:#0b0;stroke-width:1;"
+     id="line4" />
+  <line
+     x1="784"
+     y1="503"
+     x2="841"
+     y2="533"
+     style="stroke:#0b0;stroke-width:1;"
+     id="line6" />
+  <line
+     x1="781.5"
+     y1="503"
+     x2="777.96446609407"
+     y2="506.53553390593"
+     style="stroke:#0b0;stroke-width:2;"
+     id="line8" />
+  <line
+     x1="781.5"
+     y1="503"
+     x2="777.96446609407"
+     y2="499.46446609407"
+     style="stroke:#0b0;stroke-width:2;"
+     id="line10" />
+  <line
+     x1="846"
+     y1="533"
+     x2="842.46446609407"
+     y2="536.53553390593"
+     style="stroke:#0b0;stroke-width:2;"
+     id="line12" />
+  <line
+     x1="846"
+     y1="533"
+     x2="842.46446609407"
+     y2="529.46446609407"
+     style="stroke:#0b0;stroke-width:2;"
+     id="line14" />
+  <line
+     x1="774"
+     y1="483"
+     x2="784"
+     y2="483"
+     style="stroke:#c00;stroke-width:1;"
+     id="line16" />
+  <line
+     x1="829"
+     y1="148"
+     x2="839"
+     y2="148"
+     style="stroke:#c00;stroke-width:1;"
+     id="line18" />
+  <line
+     x1="784"
+     y1="483"
+     x2="829"
+     y2="148"
+     style="stroke:#c00;stroke-width:1;"
+     id="line20" />
+  <line
+     x1="781.5"
+     y1="483"
+     x2="777.96446609407"
+     y2="486.53553390593"
+     style="stroke:#c00;stroke-width:2;"
+     id="line22" />
+  <line
+     x1="781.5"
+     y1="483"
+     x2="777.96446609407"
+     y2="479.46446609407"
+     style="stroke:#c00;stroke-width:2;"
+     id="line24" />
+  <line
+     x1="834"
+     y1="148"
+     x2="830.46446609407"
+     y2="151.53553390593"
+     style="stroke:#c00;stroke-width:2;"
+     id="line26" />
+  <line
+     x1="834"
+     y1="148"
+     x2="830.46446609407"
+     y2="144.46446609407"
+     style="stroke:#c00;stroke-width:2;"
+     id="line28" />
+  <line
+     x1="343"
+     y1="573"
+     x2="353"
+     y2="573"
+     style="stroke:#0bf;stroke-width:1;"
+     id="line30" />
+  <line
+     x1="502"
+     y1="686"
+     x2="512"
+     y2="686"
+     style="stroke:#0bf;stroke-width:1;"
+     id="line32" />
+  <line
+     x1="353"
+     y1="573"
+     x2="502"
+     y2="686"
+     style="stroke:#0bf;stroke-width:1;"
+     id="line34" />
+  <line
+     x1="350.5"
+     y1="573"
+     x2="346.96446609407"
+     y2="576.53553390593"
+     style="stroke:#0bf;stroke-width:2;"
+     id="line36" />
+  <line
+     x1="350.5"
+     y1="573"
+     x2="346.96446609407"
+     y2="569.46446609407"
+     style="stroke:#0bf;stroke-width:2;"
+     id="line38" />
+  <line
+     x1="507"
+     y1="686"
+     x2="503.46446609407"
+     y2="689.53553390593"
+     style="stroke:#0bf;stroke-width:2;"
+     id="line40" />
+  <line
+     x1="507"
+     y1="686"
+     x2="503.46446609407"
+     y2="682.46446609407"
+     style="stroke:#0bf;stroke-width:2;"
+     id="line42" />
+  <line
+     x1="343"
+     y1="533"
+     x2="353"
+     y2="533"
+     style="stroke:#333;stroke-width:1;"
+     id="line44" />
+  <line
+     x1="506"
+     y1="443"
+     x2="516"
+     y2="443"
+     style="stroke:#333;stroke-width:1;"
+     id="line46" />
+  <line
+     x1="353"
+     y1="533"
+     x2="506"
+     y2="443"
+     style="stroke:#333;stroke-width:1;"
+     id="line48" />
+  <line
+     x1="350.5"
+     y1="533"
+     x2="346.96446609407"
+     y2="536.53553390593"
+     style="stroke:#333;stroke-width:2;"
+     id="line50" />
+  <line
+     x1="350.5"
+     y1="533"
+     x2="346.96446609407"
+     y2="529.46446609407"
+     style="stroke:#333;stroke-width:2;"
+     id="line52" />
+  <line
+     x1="511"
+     y1="443"
+     x2="507.46446609407"
+     y2="446.53553390593"
+     style="stroke:#333;stroke-width:2;"
+     id="line54" />
+  <line
+     x1="511"
+     y1="443"
+     x2="507.46446609407"
+     y2="439.46446609407"
+     style="stroke:#333;stroke-width:2;"
+     id="line56" />
+  <line
+     x1="343"
+     y1="553"
+     x2="353"
+     y2="553"
+     style="stroke:#b0b;stroke-width:1;"
+     id="line58" />
+  <line
+     x1="505"
+     y1="587"
+     x2="515"
+     y2="587"
+     style="stroke:#b0b;stroke-width:1;"
+     id="line60" />
+  <line
+     x1="353"
+     y1="553"
+     x2="505"
+     y2="587"
+     style="stroke:#b0b;stroke-width:1;"
+     id="line62" />
+  <line
+     x1="350.5"
+     y1="553"
+     x2="346.96446609407"
+     y2="556.53553390593"
+     style="stroke:#b0b;stroke-width:2;"
+     id="line64" />
+  <line
+     x1="350.5"
+     y1="553"
+     x2="346.96446609407"
+     y2="549.46446609407"
+     style="stroke:#b0b;stroke-width:2;"
+     id="line66" />
+  <line
+     x1="510"
+     y1="587"
+     x2="506.46446609407"
+     y2="590.53553390593"
+     style="stroke:#b0b;stroke-width:2;"
+     id="line68" />
+  <line
+     x1="510"
+     y1="587"
+     x2="506.46446609407"
+     y2="583.46446609407"
+     style="stroke:#b0b;stroke-width:2;"
+     id="line70" />
+  <line
+     x1="839"
+     y1="188"
+     x2="829"
+     y2="188"
+     style="stroke:#0b0;stroke-width:1;"
+     id="line72" />
+  <line
+     x1="840"
+     y1="382"
+     x2="850"
+     y2="382"
+     style="stroke:#0b0;stroke-width:1;"
+     id="line74" />
+  <line
+     x1="829"
+     y1="188"
+     x2="840"
+     y2="382"
+     style="stroke:#0b0;stroke-width:1;"
+     id="line76" />
+  <line
+     x1="831.5"
+     y1="188"
+     x2="835.03553390593"
+     y2="191.53553390593"
+     style="stroke:#0b0;stroke-width:2;"
+     id="line78" />
+  <line
+     x1="831.5"
+     y1="188"
+     x2="835.03553390593"
+     y2="184.46446609407"
+     style="stroke:#0b0;stroke-width:2;"
+     id="line80" />
+  <line
+     x1="845"
+     y1="382"
+     x2="841.46446609407"
+     y2="385.53553390593"
+     style="stroke:#0b0;stroke-width:2;"
+     id="line82" />
+  <line
+     x1="845"
+     y1="382"
+     x2="841.46446609407"
+     y2="378.46446609407"
+     style="stroke:#0b0;stroke-width:2;"
+     id="line84" />
+  <line
+     x1="1234"
+     y1="488"
+     x2="1224"
+     y2="488"
+     style="stroke:#0bf;stroke-width:1;"
+     id="line86" />
+  <line
+     x1="1119"
+     y1="533"
+     x2="1109"
+     y2="533"
+     style="stroke:#0bf;stroke-width:1;"
+     id="line88" />
+  <line
+     x1="1224"
+     y1="488"
+     x2="1119"
+     y2="533"
+     style="stroke:#0bf;stroke-width:1;"
+     id="line90" />
+  <line
+     x1="1226.5"
+     y1="488"
+     x2="1230.0355339059"
+     y2="491.53553390593"
+     style="stroke:#0bf;stroke-width:2;"
+     id="line92" />
+  <line
+     x1="1226.5"
+     y1="488"
+     x2="1230.0355339059"
+     y2="484.46446609407"
+     style="stroke:#0bf;stroke-width:2;"
+     id="line94" />
+  <line
+     x1="1114"
+     y1="533"
+     x2="1117.5355339059"
+     y2="536.53553390593"
+     style="stroke:#0bf;stroke-width:2;"
+     id="line96" />
+  <line
+     x1="1114"
+     y1="533"
+     x2="1117.5355339059"
+     y2="529.46446609407"
+     style="stroke:#0bf;stroke-width:2;"
+     id="line98" />
+  <line
+     x1="1234"
+     y1="468"
+     x2="1224"
+     y2="468"
+     style="stroke:#0bf;stroke-width:1;"
+     id="line100" />
+  <line
+     x1="1107"
+     y1="148"
+     x2="1097"
+     y2="148"
+     style="stroke:#0bf;stroke-width:1;"
+     id="line102" />
+  <line
+     x1="1224"
+     y1="468"
+     x2="1107"
+     y2="148"
+     style="stroke:#0bf;stroke-width:1;"
+     id="line104" />
+  <line
+     x1="1226.5"
+     y1="468"
+     x2="1230.0355339059"
+     y2="471.53553390593"
+     style="stroke:#0bf;stroke-width:2;"
+     id="line106" />
+  <line
+     x1="1226.5"
+     y1="468"
+     x2="1230.0355339059"
+     y2="464.46446609407"
+     style="stroke:#0bf;stroke-width:2;"
+     id="line108" />
+  <line
+     x1="1102"
+     y1="148"
+     x2="1105.5355339059"
+     y2="151.53553390593"
+     style="stroke:#0bf;stroke-width:2;"
+     id="line110" />
+  <line
+     x1="1102"
+     y1="148"
+     x2="1105.5355339059"
+     y2="144.46446609407"
+     style="stroke:#0bf;stroke-width:2;"
+     id="line112" />
+  <rect
+     width="258"
+     height="20"
+     x="851"
+     y="503"
+     style="fill:#007;stroke:black;"
+     id="rect114" />
+  <text
+     width="258"
+     height="20"
+     x="856"
+     y="517"
+     style="fill:#fff;"
+     font-family="Arial"
+     font-size="16px"
+     id="text116"> Codepostal</text>
+  <rect
+     width="258"
+     height="20"
+     x="851"
+     y="523"
+     style="fill:#aea;stroke:black;"
+     id="rect118" />
+  <text
+     width="258"
+     height="20"
+     x="856"
+     y="537"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text120">Idcodepostal</text>
+  <rect
+     width="258"
+     height="20"
+     x="851"
+     y="543"
+     style="fill:none;stroke:black;"
+     id="rect122" />
+  <text
+     width="258"
+     height="20"
+     x="856"
+     y="557"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text124">Numcodepostal</text>
+  <rect
+     width="258"
+     height="20"
+     x="850"
+     y="352"
+     style="fill:#007;stroke:black;"
+     id="rect126" />
+  <text
+     width="258"
+     height="20"
+     x="855"
+     y="366"
+     style="fill:#fff;"
+     font-family="Arial"
+     font-size="16px"
+     id="text128"> Departement</text>
+  <rect
+     width="258"
+     height="20"
+     x="850"
+     y="372"
+     style="fill:#aea;stroke:black;"
+     id="rect130" />
+  <text
+     width="258"
+     height="20"
+     x="855"
+     y="386"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text132">Iddepartement</text>
+  <rect
+     width="258"
+     height="20"
+     x="850"
+     y="392"
+     style="fill:none;stroke:black;"
+     id="rect134" />
+  <text
+     width="258"
+     height="20"
+     x="855"
+     y="406"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text136">Numdepartement</text>
+  <rect
+     width="258"
+     height="20"
+     x="850"
+     y="412"
+     style="fill:none;stroke:black;"
+     id="rect138" />
+  <text
+     width="258"
+     height="20"
+     x="855"
+     y="426"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text140">Nomdepartement</text>
+  <rect
+     width="258"
+     height="20"
+     x="516"
+     y="413"
+     style="fill:#007;stroke:black;"
+     id="rect142" />
+  <text
+     width="258"
+     height="20"
+     x="521"
+     y="427"
+     style="fill:#fff;"
+     font-family="Arial"
+     font-size="16px"
+     id="text144"> Gare</text>
+  <rect
+     width="258"
+     height="20"
+     x="516"
+     y="433"
+     style="fill:#aea;stroke:black;"
+     id="rect146" />
+  <text
+     width="258"
+     height="20"
+     x="521"
+     y="447"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text148">Idgare</text>
+  <rect
+     width="258"
+     height="20"
+     x="516"
+     y="453"
+     style="fill:none;stroke:black;"
+     id="rect150" />
+  <text
+     width="258"
+     height="20"
+     x="521"
+     y="467"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text152">Nomgare</text>
+  <rect
+     width="258"
+     height="20"
+     x="516"
+     y="473"
+     style="fill:none;stroke:black;"
+     id="rect154" />
+  <text
+     width="258"
+     height="20"
+     x="521"
+     y="487"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text156">Idville</text>
+  <rect
+     width="258"
+     height="20"
+     x="516"
+     y="493"
+     style="fill:none;stroke:black;"
+     id="rect158" />
+  <text
+     width="258"
+     height="20"
+     x="521"
+     y="507"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text160">Idcodepostal</text>
+  <rect
+     width="258"
+     height="20"
+     x="515"
+     y="557"
+     style="fill:#007;stroke:black;"
+     id="rect162" />
+  <text
+     width="258"
+     height="20"
+     x="520"
+     y="571"
+     style="fill:#fff;"
+     font-family="Arial"
+     font-size="16px"
+     id="text164"> Ligne</text>
+  <rect
+     width="258"
+     height="20"
+     x="515"
+     y="577"
+     style="fill:#aea;stroke:black;"
+     id="rect166" />
+  <text
+     width="258"
+     height="20"
+     x="520"
+     y="591"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text168">Idligne</text>
+  <rect
+     width="258"
+     height="20"
+     x="515"
+     y="597"
+     style="fill:none;stroke:black;"
+     id="rect170" />
+  <text
+     width="258"
+     height="20"
+     x="520"
+     y="611"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text172">Codeligne</text>
+  <rect
+     width="258"
+     height="20"
+     x="85"
+     y="443"
+     style="fill:#007;stroke:black;"
+     id="rect174" />
+  <text
+     width="258"
+     height="20"
+     x="90"
+     y="457"
+     style="fill:#fff;"
+     font-family="Arial"
+     font-size="16px"
+     id="text176"> Ligne_dessert_gare_naturedesserte</text>
+  <rect
+     width="258"
+     height="20"
+     x="85"
+     y="463"
+     style="fill:none;stroke:black;"
+     id="rect178" />
+  <text
+     width="258"
+     height="20"
+     x="90"
+     y="477"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text180">WGS84</text>
+  <rect
+     width="258"
+     height="20"
+     x="85"
+     y="483"
+     style="fill:none;stroke:black;"
+     id="rect182" />
+  <text
+     width="258"
+     height="20"
+     x="90"
+     y="497"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text184">Latitude_wgs84</text>
+  <rect
+     width="258"
+     height="20"
+     x="85"
+     y="503"
+     style="fill:none;stroke:black;"
+     id="rect186" />
+  <text
+     width="258"
+     height="20"
+     x="90"
+     y="517"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text188">Longitude_wgs84</text>
+  <rect
+     width="258"
+     height="20"
+     x="85"
+     y="523"
+     style="fill:#aea;stroke:black;"
+     id="rect190" />
+  <text
+     width="258"
+     height="20"
+     x="90"
+     y="537"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text192">Idgare</text>
+  <rect
+     width="258"
+     height="20"
+     x="85"
+     y="543"
+     style="fill:#aea;stroke:black;"
+     id="rect194" />
+  <text
+     width="258"
+     height="20"
+     x="90"
+     y="557"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text196">Idligne</text>
+  <rect
+     width="258"
+     height="20"
+     x="85"
+     y="563"
+     style="fill:#aea;stroke:black;"
+     id="rect198" />
+  <text
+     width="258"
+     height="20"
+     x="90"
+     y="577"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text200">Iddesserte</text>
+  <rect
+     width="258"
+     height="20"
+     x="512"
+     y="656"
+     style="fill:#007;stroke:black;"
+     id="rect202" />
+  <text
+     width="258"
+     height="20"
+     x="517"
+     y="670"
+     style="fill:#fff;"
+     font-family="Arial"
+     font-size="16px"
+     id="text204"> Naturedesserte</text>
+  <rect
+     width="258"
+     height="20"
+     x="512"
+     y="676"
+     style="fill:#aea;stroke:black;"
+     id="rect206" />
+  <text
+     width="258"
+     height="20"
+     x="517"
+     y="690"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text208">Iddesserte</text>
+  <rect
+     width="258"
+     height="20"
+     x="512"
+     y="696"
+     style="fill:none;stroke:black;"
+     id="rect210" />
+  <text
+     width="258"
+     height="20"
+     x="517"
+     y="710"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text212">Naturedesserte</text>
+  <rect
+     width="258"
+     height="20"
+     x="839"
+     y="118"
+     style="fill:#007;stroke:black;"
+     id="rect214" />
+  <text
+     width="258"
+     height="20"
+     x="844"
+     y="132"
+     style="fill:#fff;"
+     font-family="Arial"
+     font-size="16px"
+     id="text216"> Ville</text>
+  <rect
+     width="258"
+     height="20"
+     x="839"
+     y="138"
+     style="fill:#aea;stroke:black;"
+     id="rect218" />
+  <text
+     width="258"
+     height="20"
+     x="844"
+     y="152"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text220">Idville</text>
+  <rect
+     width="258"
+     height="20"
+     x="839"
+     y="158"
+     style="fill:none;stroke:black;"
+     id="rect222" />
+  <text
+     width="258"
+     height="20"
+     x="844"
+     y="172"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text224">Nomville</text>
+  <rect
+     width="258"
+     height="20"
+     x="839"
+     y="178"
+     style="fill:none;stroke:black;"
+     id="rect226" />
+  <text
+     width="258"
+     height="20"
+     x="844"
+     y="192"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text228">Iddepartement</text>
+  <rect
+     width="258"
+     height="20"
+     x="1234"
+     y="438"
+     style="fill:#007;stroke:black;"
+     id="rect230" />
+  <text
+     width="258"
+     height="20"
+     x="1239"
+     y="452"
+     style="fill:#fff;"
+     font-family="Arial"
+     font-size="16px"
+     id="text232"> Ville_Posseder_Codepostal</text>
+  <rect
+     width="258"
+     height="20"
+     x="1234"
+     y="458"
+     style="fill:#aea;stroke:black;"
+     id="rect234" />
+  <text
+     width="258"
+     height="20"
+     x="1239"
+     y="472"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text236">Idville</text>
+  <rect
+     width="258"
+     height="20"
+     x="1234"
+     y="478"
+     style="fill:#aea;stroke:black;"
+     id="rect238" />
+  <text
+     width="258"
+     height="20"
+     x="1239"
+     y="492"
+     style="fill:black;"
+     font-family="Arial"
+     font-size="16px"
+     id="text240">Idcodepostal</text>
+</svg>
