@@ -33,7 +33,7 @@ int main()
     ligne.addProperty(Property("Idligne", ValueType::integer, Value(0), true));
     ligne.addProperty(Property("Codeligne", ValueType::integer));
 
-    Entity ligneLien("Ligne_dessert_gare_naturedesserte"); // TODO
+    Entity ligneLien("Ligne_dessert_gare_naturedesserte");
     ligneLien.addProperty(Property("WGS84", ValueType::str));
     ligneLien.addProperty(Property("Latitude_wgs84", ValueType::str));
     ligneLien.addProperty(Property("Longitude_wgs84", ValueType::str));
