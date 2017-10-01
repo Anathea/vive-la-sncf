@@ -5,56 +5,43 @@
 
 using namespace std;
 
-vector<vector<string>> Utile::loadCSVFileLine(string nomFichier, bool &ok) // Chaque ligne du fichier est une case du tableau.
+
+bool Utile::saveCSVFileByLine(const string nomFichier, vector<vector<string>> &datas)
 {
-    vector<vector<string>> rslt;
-    string line;
     ifstream myfile;
+    vector<vector<string>> rslt;
+    string lineStr;
     myfile.open(nomFichier);
 
-    if (myfile.is_open())
+    if (!myfile.is_open())
     {
-        auto i = 0;
-        while (getline(myfile, line))
+        cout << "Nom du fichier incorrect/Shadow build non décoché" << endl;
+        return false;
+    }
+
+    while (getline(myfile, lineStr, '\r'))
+    {
+        if (lineStr.empty() || lineStr == "\n")
         {
-            std::istringstream streamLine(line);
-            std::string valeurColonne;
-            vector<string> colonne;
-
-            while (std::getline(streamLine, valeurColonne, ';'))
-            {
-//                std::cout << valeurColonne << endl;
-                colonne.push_back(valeurColonne);
-            }
-
-            cout << "colonne" << i << ".size() = " << colonne.size() << endl;
-            rslt.push_back(colonne);
-            i++;
+            continue;
         }
 
-        myfile.close();
-        ok = true;
-        cout << "fichier.size() = " << rslt.size() << endl;
-    }
-    else
-    {
-        cout << "nom du fichier incorrect" << endl;
-        ok = false;
-    }
+        std::istringstream streamLine(lineStr);
+        vector<string> lineTab;
+        string element;
 
-    return rslt;
-}
-
-vector<vector<string>> Utile::loadCSVFileColumn(const vector<vector<string>> &tabFichier)
-{
-    vector<vector<string>> rslt;
-    string column;
-
-    for (auto tabDansTab : tabFichier)
-    {
-        for (auto élément : tabDansTab)
+        while (getline(streamLine, element, ';'))
         {
-
+            lineTab.push_back(element);
         }
+        rslt.push_back(lineTab);
     }
+
+    myfile.close();
+    rslt.erase(rslt.begin());
+    datas = rslt;
+
+    return true;
 }
+
+

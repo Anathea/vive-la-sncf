@@ -4,7 +4,17 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += main.cpp \
-    utile.cpp
+    utile.cpp \
+    entity.cpp \
+    property.cpp \
+    entry.cpp \
+    value.cpp \
+    bdd.cpp
 
 HEADERS += \
-    utile.h
+    utile.h \
+    entity.h \
+    property.h \
+    entry.h \
+    value.h \
+    bdd.h
