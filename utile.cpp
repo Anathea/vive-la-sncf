@@ -19,9 +19,11 @@ bool Utile::saveCSVFileByLine(const string nomFichier, vector<vector<string>> &d
         return false;
     }
 
-    while (getline(myfile, lineStr, '\r'))
+    while (getline(myfile, lineStr, '\n'))
     {
-        if (lineStr.empty() || lineStr == "\n")
+        lineStr.erase(std::remove(lineStr.begin(), lineStr.end(), '\r'), lineStr.end());
+
+        if (lineStr.empty())
         {
             continue;
         }
