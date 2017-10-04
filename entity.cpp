@@ -1,5 +1,4 @@
 #include "entity.h"
-//#include <exception>
 
 Entity::Entity() : name(""), titles({}), content({})
 {
@@ -85,7 +84,7 @@ Entry Entity::createEntryIfNotExist(std::map<std::string, Value> values)
 
 Entry Entity::createEntry(std::map<std::string, Value> values)
 {
-    Entry line(titles.size());
+    Entry line((int) titles.size());
 
     for (const auto &element : values)
     {
@@ -123,7 +122,7 @@ Entry Entity::createEntry(std::map<std::string, Value> values)
 std::string Entity::exportTitles() const
 {
     std::string lineTitles;
-    int titlesSize = titles.size();
+    int titlesSize = (int)titles.size();
 
     for (int i = 0; i < titlesSize; ++i)
     {
@@ -141,7 +140,7 @@ std::string Entity::exportTitles() const
 std::string Entity::exportContent() const
 {
     std::string allContent;
-    int contentSize = content.size();
+    int contentSize = (int)content.size();
 
     for (int i = 0; i < contentSize; ++i)
     {
@@ -195,7 +194,7 @@ int Entity::getTitleIdByName(std::string name)
     {
         if (titles[i].getName() == name)
         {
-            return i;
+            return (int)i;
         }
     }
 
