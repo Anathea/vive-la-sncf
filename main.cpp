@@ -7,10 +7,12 @@ using namespace std;
 int main()
 {
     vector<vector<string>> csvTab;
-    if (Utile::saveCSVFileByLine("res/gares.csv", csvTab))
+    if (!Utile::saveCSVFileByLine("res/gares.csv", csvTab))
     {
-        cout << "CSV to vector : ok" << endl;
+        return 0;
     }
+
+    cout << "CSV to vector : ok" << endl;
 
     BDD bdd;
 
