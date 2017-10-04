@@ -29,7 +29,7 @@ public:
     std::string exportContent() const;
     std::string exportTable() const;
 
-    const Value &getEntryValue(Entry line, std::string nameColumn);
+    const Value getEntryValue(Entry line, std::string nameColumn);
 
     void saveTable() const;
 

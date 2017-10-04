@@ -167,7 +167,7 @@ std::string Entity::exportTable() const
     return "";
 }
 
-const Value &Entity::getEntryValue(Entry line, std::string nameColumn)
+const Value Entity::getEntryValue(Entry line, std::string nameColumn)
 {
     int id = getTitleIdByName(nameColumn);
 

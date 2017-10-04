@@ -15,7 +15,7 @@ public:
     std::vector<Value> getLine() const;
     void setLine(const std::vector<Value> &value);
 
-    const Value &getValueById(const int id) const;
+    const Value getValueById(const int id) const;
     void setValueById(const int id, const Value &value);
 
     std::string exportLine() const;

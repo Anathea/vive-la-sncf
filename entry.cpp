@@ -25,7 +25,7 @@ void Entry::setLine(const std::vector<Value> &value)
     line = value;
 }
 
-const Value &Entry::getValueById(const int id) const
+const Value Entry::getValueById(const int id) const
 {
     return line[id];
 }
