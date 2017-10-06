@@ -7,14 +7,13 @@ using namespace std;
 int main()
 {
     vector<vector<string>> csvTab;
-    cout << "CSV to vector : ";
     if (!Utile::saveCSVFileByLine("res/gares.csv", csvTab))
     {
-        cout << "not ok" << endl;
+        cout << "CSV to vector : not ok" << endl;
         return 0;
     }
 
-    cout << "ok" << endl;
+    cout << "CSV to vector : ok" << endl;
 
     BDD bdd;
 
