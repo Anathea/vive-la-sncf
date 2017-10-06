@@ -15,7 +15,7 @@ bool Utile::saveCSVFileByLine(const string nomFichier, vector<vector<string>> &d
 
     if (!myfile.is_open())
     {
-        cout << "Nom du fichier incorrect/Shadow build non décoché" << endl;
+        cout << "Nom du fichier incorrect/Shadow build non decoche" << endl;
         return false;
     }
 
