@@ -1,32 +1,32 @@
-#include "bdd.h"
+#include "db.h"
 #include <stdexcept>
 
-BDD::BDD() : BDD("Gares")
+DB::DB() : DB("Gares")
 {
 
 }
 
-BDD::BDD(std::string nameBDD) : name(nameBDD), tables({})
+DB::DB(std::string nameBDD) : name(nameBDD), tables({})
 {
 
 }
 
-BDD::BDD(std::string nameBDD, std::vector<Entity> tablesBDD) : name(nameBDD), tables(tablesBDD)
+DB::DB(std::string nameBDD, std::vector<Entity> tablesBDD) : name(nameBDD), tables(tablesBDD)
 {
 
 }
 
-std::vector<Entity> BDD::getTables() const
+std::vector<Entity> DB::getTables() const
 {
     return tables;
 }
 
-void BDD::setTables(const std::vector<Entity> &value)
+void DB::setTables(const std::vector<Entity> &value)
 {
     tables = value;
 }
 
-const Entity *BDD::getEntityByName(const std::string name) const
+const Entity *DB::getEntityByName(const std::string name) const
 {
     for (const Entity &table : tables)
     {
@@ -39,7 +39,7 @@ const Entity *BDD::getEntityByName(const std::string name) const
     throw std::invalid_argument(name + " isn't a table");
 }
 
-bool BDD::addEntity(Entity &table)
+bool DB::addEntity(Entity &table)
 {
     try
     {
@@ -55,12 +55,12 @@ bool BDD::addEntity(Entity &table)
     return false; // You can't create a table that already exist!
 }
 
-std::string BDD::getName() const
+std::string DB::getName() const
 {
     return name;
 }
 
-void BDD::saveTables() const
+void DB::saveTables() const
 {
     for (int i = 0; i < (int)tables.size(); ++i)
     {

@@ -1,6 +1,6 @@
 #include <iostream>
 #include "utile.h"
-#include "bdd.h"
+#include "db.h"
 
 using namespace std;
 
@@ -15,7 +15,7 @@ int main()
 
     cout << "CSV to vector : ok" << endl;
 
-    BDD bdd;
+    DB bdd;
 
     Entity codeP("CodePostal");
     codeP.addProperty(Property("Idcodepostal", ValueType::integer, Value(0), true));

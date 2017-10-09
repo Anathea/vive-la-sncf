@@ -5,12 +5,12 @@
 #include <vector>
 #include "entity.h"
 
-class BDD
+class DB
 {
 public:
-    BDD();
-    BDD(std::string nameBDD);
-    BDD(std::string nameBDD, std::vector<Entity> tablesBDD);
+    DB();
+    DB(std::string nameBDD);
+    DB(std::string nameBDD, std::vector<Entity> tablesBDD);
 
     std::vector<Entity> getTables() const;
     void setTables(const std::vector<Entity> &value);

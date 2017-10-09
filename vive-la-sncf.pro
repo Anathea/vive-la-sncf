@@ -9,7 +9,7 @@ SOURCES += main.cpp \
     property.cpp \
     entry.cpp \
     value.cpp \
-    bdd.cpp
+    db.cpp
 
 HEADERS += \
     utile.h \
@@ -17,4 +17,4 @@ HEADERS += \
     property.h \
     entry.h \
     value.h \
-    bdd.h
+    db.h
