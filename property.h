@@ -4,7 +4,7 @@
 #include <iostream>
 #include "value.h"
 
-class Property // == Colonne
+class Property // == Column field
 {
 public:
     Property();

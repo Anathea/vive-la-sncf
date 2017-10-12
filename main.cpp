@@ -24,7 +24,7 @@ int main()
     Entity dep("Departement");
     dep.addProperty(Property("Iddepartement", ValueType::integer, Value(0), true));
     dep.addProperty(Property("Numdepartement", ValueType::integer));
-//    dep.addProperty(Property("Nomdepartement", ValueType::str)); /* Absent du csv */
+//    dep.addProperty(Property("Nomdepartement", ValueType::str)); /* Not in csv */
 
     Entity gare("Gare");
     gare.addProperty(Property("Idgare", ValueType::integer, Value(0), true));

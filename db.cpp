@@ -6,12 +6,12 @@ DB::DB() : DB("Gares")
 
 }
 
-DB::DB(std::string nameBDD) : name(nameBDD), tables({})
+DB::DB(std::string nameDB) : name(nameDB), tables({})
 {
 
 }
 
-DB::DB(std::string nameBDD, std::vector<Entity> tablesBDD) : name(nameBDD), tables(tablesBDD)
+DB::DB(std::string nameDB, std::vector<Entity> tablesDB) : name(nameDB), tables(tablesDB)
 {
 
 }

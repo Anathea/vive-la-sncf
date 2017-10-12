@@ -6,16 +6,16 @@
 using namespace std;
 
 
-bool Utile::saveCSVFileByLine(const string nomFichier, vector<vector<string>> &datas)
+bool Utile::saveCSVFileByLine(const string fileName, vector<vector<string>> &datas)
 {
     ifstream myfile;
     vector<vector<string>> rslt;
     string lineStr;
-    myfile.open(nomFichier);
+    myfile.open(fileName);
 
     if (!myfile.is_open())
     {
-        cout << "Nom du fichier incorrect/Shadow build non decoche" << endl;
+        cout << "Incorrect file name/Shadow build still on" << endl;
         return false;
     }
 

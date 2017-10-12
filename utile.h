@@ -8,7 +8,7 @@
 class Utile
 {
 public:
-  static bool saveCSVFileByLine(const std::string nomFichier, std::vector<std::vector<std::string>> &datas);
+  static bool saveCSVFileByLine(const std::string fileName, std::vector<std::vector<std::string>> &datas);
 
   template <typename T>
   static void printVectorVector(const std::vector<std::vector<T>> tab)

@@ -5,7 +5,7 @@
 #include <vector>
 #include "value.h"
 
-class Entry // == Ligne
+class Entry // == Line
 {
 public:
     Entry();
